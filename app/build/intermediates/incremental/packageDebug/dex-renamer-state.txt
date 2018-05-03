@@ -1,0 +1,7 @@
+#Thu May 03 23:39:32 CST 2018
+base.0=E\:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ddfadddc8f771b36d1d1e605f17964df45b7b009
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_161d8e48269c077e52cc76311066c7daeccb8ac8\\classes.dex
+base.1=E\:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_161d8e48269c077e52cc76311066c7daeccb8ac8
+file.0=E\:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ddfadddc8f771b36d1d1e605f17964df45b7b009\\classes.dex

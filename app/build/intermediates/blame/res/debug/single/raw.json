@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_frag_oes.glsl",
+        "source": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\src\\main\\res\\raw\\default_frag_oes.glsl"
+    },
+    {
+        "merged": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bitmap_frag_shader.glsl",
+        "source": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\src\\main\\res\\raw\\bitmap_frag_shader.glsl"
+    },
+    {
+        "merged": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bitmap_vertex_shader.glsl",
+        "source": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\src\\main\\res\\raw\\bitmap_vertex_shader.glsl"
+    },
+    {
+        "merged": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_vertex_oes.glsl",
+        "source": "E:\\Git\\AndroidOpenGlDemo_jie\\app\\src\\main\\res\\raw\\default_vertex_oes.glsl"
+    }
+]
